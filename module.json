@@ -32,7 +32,6 @@
   "download": "https://github.com/TacticalMap/TacticalMap-2023/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
-}
   "relationships": {
     "requires": [
       {
@@ -49,3 +48,4 @@
       }
     ]
   },
+}
