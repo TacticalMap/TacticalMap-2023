@@ -28,10 +28,6 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/TacticalMap/TacticalMap-2023/main/module.json",
-  "download": "https://github.com/TacticalMap/TacticalMap-2023/archive/refs/heads/main.zip",
-  "protected": false,
-  "coreTranslation": false
   "relationships": {
     "requires": [
       {
@@ -48,4 +44,8 @@
       }
     ]
   },
+  "manifest": "https://raw.githubusercontent.com/TacticalMap/TacticalMap-2023/main/module.json",
+  "download": "https://github.com/TacticalMap/TacticalMap-2023/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false
 }
