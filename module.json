@@ -1,0 +1,51 @@
+{
+  "name": "tacticalmap-2023",
+  "id": "tacticalmap-2023",
+  "title": "TacticalMap 2023",
+  "description": "A collection of maps from TacticalMap for 2023.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "tacticalmap-2023",
+      "label": "TacticalMap 2023",
+      "path": "packs/tacticalmap-2023.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "tacticalmap-2023",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false
+}
+  "relationships": {
+    "requires": [
+      {
+        "id": "tagger",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-Tagger/releases/latest/download/module.json",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "manifest": "https://github.com/ironmonk88/monks-active-tiles/releases/latest/download/module.json",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
