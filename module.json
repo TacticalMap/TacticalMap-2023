@@ -16,12 +16,12 @@
   "languages": [],
   "packs": [
     {
-      "name": "TacticalMap 2023",
+      "name": "TacticalMap%202023",
       "label": "TacticalMap 2023",
       "path": "packs/tacticalmap-2023.db",
       "type": "Scene",
 	  "entity": "Scene",
-      "module": "TacticalMap 2023",
+      "module": "TacticalMap%202023",
       "private": false
     }
   ],
