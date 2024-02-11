@@ -1,0 +1,12 @@
+2024/02/11-11:53:56.399 1820 Recovering log #38
+2024/02/11-11:53:56.402 1820 Level-0 table #40: started
+2024/02/11-11:53:56.411 1820 Level-0 table #40: 607667 bytes OK
+2024/02/11-11:53:56.414 1820 Delete type=0 #38
+2024/02/11-11:53:56.415 1820 Delete type=3 #37
+2024/02/11-13:14:00.251 dc4 Compacting 2@0 + 0@1 files
+2024/02/11-13:14:00.297 dc4 Generated table #42@0: 17020 keys, 2155458 bytes
+2024/02/11-13:14:00.304 dc4 Generated table #43@0: 3236 keys, 230000 bytes
+2024/02/11-13:14:00.304 dc4 Compacted 2@0 + 0@1 files => 2385458 bytes
+2024/02/11-13:14:00.305 dc4 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/02/11-13:14:00.305 dc4 Delete type=2 #5
+2024/02/11-13:14:00.305 dc4 Delete type=2 #40
